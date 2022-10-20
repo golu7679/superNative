@@ -10,7 +10,7 @@
 
 **2.** Text Editor (Preferred **[Visual Studio Code](https://code.visualstudio.com/download)**
 OR **[Notepad++](https://notepad-plus-plus.org/downloads/)**
-OR **[PhpStrom](https://www.jetbrains.com/phpstorm/download/#section=windows)**
+OR **[PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=windows)**
 OR **[Atom](https://atom.io/)** or any other text editor)
 
 **3.** **[Android Studio](https://developer.android.com/studio)** (Click on the link to download)
@@ -54,6 +54,15 @@ Image is given below to setup environment variables
 ![](./img/4.png)
 
 **NOTE :** Add this in `PATH` section
+
+```bash
+   C:\Users\GoLu\AppData\Local\Android\Sdk\platform-tools
+```
+
+```bash 
+    C:\Users\GoLu\AppData\Local\Android\Sdk\tools\bin
+```
+
 ![](./img/5.png)
 
 ### Create React Native App
